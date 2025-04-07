@@ -1,0 +1,1 @@
+alert("js'ye hoşgeldniz")
